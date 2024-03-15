@@ -7,5 +7,8 @@
 
 [![Sourceforge Badge](https://img.shields.io/badge/-Genesis_OS-000?style=quare&labelColor=000&logo=Sourceforge&logoColor=orange&link=link)](https://sourceforge.net/projects/ginkgorom/) 
 
-![1000015576](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/2015851d-8e11-405d-84fb-3c8291af183a)
+![1000015038](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/8e17171e-33e4-4584-b4b4-8495e898bd86)
+![1000015040](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/c21149bb-6a5c-48f6-bf6e-884573e7c6b2)
+
+
 [![Sourceforge Badge](https://img.shields.io/badge/-SUPERİOR_OS-000?style=quare&labelColor=000&logo=Sourceforge&logoColor=orange&link=link)](https://sourceforge.net/projects/ginkgorom/)
