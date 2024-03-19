@@ -13,6 +13,7 @@
 
 [![Sourceforge Badge](https://img.shields.io/badge/-SUPERİOR_OS-000?style=quare&labelColor=000&logo=Sourceforge&logoColor=white&link=link)](https://sourceforge.net/projects/ginkgorom/files/SuperiorOS-Fourteen-ginkgo-COMMUNITY-20240314-1804.zip/download) 
 
-![1000015468](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/763818ca-0dd1-4a47-91f4-8d8118bd649c)
+![1000015547](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/b3fb752e-c784-4f78-b825-cc6997d4d748)
+
 
 [![Sourceforge Badge](https://img.shields.io/badge/-ARROW_OS-000?style=quare&labelColor=000&logo=Sourceforge&logoColor=green&link=link)](https://sourceforge.net/projects/ginkgorom/files/arrow_ginkgo-ota-eng.muhammed.zip/download)
