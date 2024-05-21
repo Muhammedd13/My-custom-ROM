@@ -21,4 +21,4 @@
 
 ![IMG_20240521_231855_631](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/f52f7d9f-7618-40b9-97d2-af89feba6e88)
 
-[![Sourceforge Badge](https://img.shields.io/badge/-Project_Matrixx-000?style=quare&labelColor=000&logo=Sourceforge&logoColor=orange&link=link)](https://sourceforge.net/projects/rubyrom/files/Matrixx-v10.5.1-Unofficial-ruby-Vanilla-20240519.zip/download)
+[![Sourceforge Badge](https://img.shields.io/badge/-Project_Matrixx-RUBY--000?style=quare&labelColor=000&logo=Sourceforge&logoColor=orange&link=link)](https://sourceforge.net/projects/rubyrom/files/Matrixx-v10.5.1-Unofficial-ruby-Vanilla-20240519.zip/download)
