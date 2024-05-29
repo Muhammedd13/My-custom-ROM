@@ -19,6 +19,6 @@
 [![Sourceforge Badge](https://img.shields.io/badge/-ARROW_OS-000?style=quare&labelColor=000&logo=Sourceforge&logoColor=green&link=link)](https://sourceforge.net/projects/ginkgorom/files/arrow_ginkgo-ota-eng.muhammed.zip/download)
 
 
-![IMG_20240521_231855_631](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/f52f7d9f-7618-40b9-97d2-af89feba6e88)
+![IMG_20240530_004306_650](https://github.com/Muhammedd13/My-custom-ROM/assets/113644562/d4559d63-1c3c-486a-9d73-b19a19b581fe)
 
 [![Sourceforge Badge](https://img.shields.io/badge/-Project_Matrixx-RUBY--000?style=quare&labelColor=000&logo=Sourceforge&logoColor=orange&link=link)](https://sourceforge.net/projects/rubyrom/files/Matrixx-v10.5.1-Unofficial-ruby-Vanilla-20240519.zip/download)
